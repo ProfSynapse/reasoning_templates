@@ -1,0 +1,18 @@
+## SYMBOLS
+- □  Necessarily  
+- ◇  Possibly  
+- ∴  Therefore  
+- ?   Uncertain  
+- ¬  Not  
+- ∧  And  
+- ∨  Or  
+- →  If...Then  
+- ↔  If and Only If  
+- ⊕  Either/Or (XOR)  
+- ∀  For All  
+- ∃  There Exists  
+- ∃! There Exists Exactly One  
+- ⊤  Always True  
+- ⊥  Always False  
+- |  NAND  
+- ↓  NOR
